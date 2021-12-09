@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Git Add Test" max_length="40" name="x_324802_gittest_git_add_test" type="collection">
+        <element label="Due Date" max_length="40" name="due_date" type="glide_date_time"/>
+        <element label="Git ID" max_length="255" name="git_id" type="string"/>
+    </element>
+</database>
