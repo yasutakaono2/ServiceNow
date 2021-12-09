@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="" label="Git Add Test" language="en" table="x_324802_gittest_git_add_test">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>Git Add Test</label>
+            <language>en</language>
+            <name>x_324802_gittest_git_add_test</name>
+            <plural>Git Add Tests</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-12-09 00:03:52</sys_created_on>
+            <sys_id>334861f12f100110daf14f2e2c99b6bd</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Git Add Test</sys_name>
+            <sys_package display_value="gittest" source="x_324802_gittest">1e167bb42fd84110daf14f2e2c99b69a</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="gittest">1e167bb42fd84110daf14f2e2c99b69a</sys_scope>
+            <sys_update_name>sys_documentation_x_324802_gittest_git_add_test__en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-12-09 00:03:52</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
