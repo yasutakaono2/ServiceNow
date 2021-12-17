@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="" label="Gittest test case" language="en" table="x_324802_gittest_test_case">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>Gittest test case</label>
+            <language>en</language>
+            <name>x_324802_gittest_test_case</name>
+            <plural>Gittest test cases</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-12-17 04:52:27</sys_created_on>
+            <sys_id>1517f7d02fa00110daf14f2e2c99b6ee</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Gittest test case</sys_name>
+            <sys_package display_value="gittest" source="x_324802_gittest">1e167bb42fd84110daf14f2e2c99b69a</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="gittest">1e167bb42fd84110daf14f2e2c99b69a</sys_scope>
+            <sys_update_name>sys_documentation_x_324802_gittest_test_case__en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-12-17 04:52:27</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

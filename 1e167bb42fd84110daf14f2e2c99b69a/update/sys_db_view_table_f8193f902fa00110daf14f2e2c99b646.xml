@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_db_view_table">
+    <sys_db_view_table action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <left_join>false</left_join>
+        <order>400</order>
+        <sys_class_name>sys_db_view_table</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-12-17 05:02:27</sys_created_on>
+        <sys_id>f8193f902fa00110daf14f2e2c99b646</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>sys_user</sys_name>
+        <sys_package display_value="gittest" source="x_324802_gittest">1e167bb42fd84110daf14f2e2c99b69a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="gittest">1e167bb42fd84110daf14f2e2c99b69a</sys_scope>
+        <sys_update_name>sys_db_view_table_f8193f902fa00110daf14f2e2c99b646</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-12-17 05:02:27</sys_updated_on>
+        <table>sys_user</table>
+        <variable_prefix>user</variable_prefix>
+        <view display_value="x_324802_gittest_test_case">7c07f3d02fa00110daf14f2e2c99b602</view>
+        <where_clause>cat_opened_by=user_sys_id</where_clause>
+    </sys_db_view_table>
+</record_update>
