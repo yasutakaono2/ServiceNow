@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_atf_step">
+    <sys_atf_step action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <copied_from/>
+        <description>Answer the questions on the form as follows:
+Adobe Acrobat = true
+and Additional software requirements = Coral Draw
+and Adobe Photoshop = false</description>
+        <display_name>Set Variable Values (SP)</display_name>
+        <inputs/>
+        <mugshots_cache_json/>
+        <notes/>
+        <order>2</order>
+        <snapshot/>
+        <step_config display_value="Set Variable Values (SP)">2e4229b48703030070870cf888cb0b5c</step_config>
+        <sys_class_name>sys_atf_step</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-12-20 00:12:23</sys_created_on>
+        <sys_id>4e731e152f200110daf14f2e2c99b6d8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Set Variable Values (SP)</sys_name>
+        <sys_package display_value="gittest" source="x_324802_gittest">1e167bb42fd84110daf14f2e2c99b69a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="gittest">1e167bb42fd84110daf14f2e2c99b69a</sys_scope>
+        <sys_update_name>sys_atf_step_4e731e152f200110daf14f2e2c99b6d8</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-12-20 00:12:23</sys_updated_on>
+        <table/>
+        <test display_value="ATF Demo">a9c2d6152f200110daf14f2e2c99b690</test>
+        <timeout/>
+        <warning_message/>
+    </sys_atf_step>
+    <sys_variable_value action="delete_multiple" query="document_key=4e731e152f200110daf14f2e2c99b6d8"/>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_atf_step</document>
+        <document_key>4e731e152f200110daf14f2e2c99b6d8</document_key>
+        <order>100</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-12-20 00:12:23</sys_created_on>
+        <sys_id>7bb316552f200110daf14f2e2c99b633</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-12-20 00:12:23</sys_updated_on>
+        <value>04b7e94b4f7b4200086eeed18110c7fd</value>
+        <variable display_value="Item">d164adb48703030070870cf888cb0b30</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_atf_step</document>
+        <document_key>4e731e152f200110daf14f2e2c99b6d8</document_key>
+        <order>200</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-12-20 00:12:23</sys_created_on>
+        <sys_id>b7b316552f200110daf14f2e2c99b633</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-12-20 00:12:23</sys_updated_on>
+        <value>IO:90b72d4b4f7b4200086eeed18110c701=true^IO:a8b72d4b4f7b4200086eeed18110c702=Coral Draw^IO:a8b72d4b4f7b4200086eeed18110c701=false^EQ</value>
+        <variable display_value="Variable Values">3f3525f48703030070870cf888cb0b37</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_atf_step</document>
+        <document_key>4e731e152f200110daf14f2e2c99b6d8</document_key>
+        <order>150</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-12-20 00:12:23</sys_created_on>
+        <sys_id>f3b316552f200110daf14f2e2c99b633</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-12-20 00:12:23</sys_updated_on>
+        <value/>
+        <variable display_value="Multi-row Variable Set">2fba49d673142300688e0d573cf6a748</variable>
+    </sys_variable_value>
+    <sys_element_mapping action="delete_multiple" query="table=var__m_atf_input_variable_2e4229b48703030070870cf888cb0b5c^id=4e731e152f200110daf14f2e2c99b6d8"/>
+</record_update>
