@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_atf_step">
+    <sys_atf_step action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <copied_from/>
+        <description>Order item and confirm that ordering is successful</description>
+        <display_name>Order a Catalog Item (SP)</display_name>
+        <inputs/>
+        <mugshots_cache_json/>
+        <notes/>
+        <order>3</order>
+        <snapshot/>
+        <step_config display_value="Order a Catalog Item (SP)">c0fede515f23030076861f9f2f7313db</step_config>
+        <sys_class_name>sys_atf_step</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-12-20 00:12:58</sys_created_on>
+        <sys_id>36d39a152f200110daf14f2e2c99b606</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Order a Catalog Item (SP)</sys_name>
+        <sys_package display_value="gittest" source="x_324802_gittest">1e167bb42fd84110daf14f2e2c99b69a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="gittest">1e167bb42fd84110daf14f2e2c99b69a</sys_scope>
+        <sys_update_name>sys_atf_step_36d39a152f200110daf14f2e2c99b606</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-12-20 00:12:58</sys_updated_on>
+        <table/>
+        <test display_value="ATF Demo">a9c2d6152f200110daf14f2e2c99b690</test>
+        <timeout/>
+        <warning_message/>
+    </sys_atf_step>
+    <sys_variable_value action="delete_multiple" query="document_key=36d39a152f200110daf14f2e2c99b606"/>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_atf_step</document>
+        <document_key>36d39a152f200110daf14f2e2c99b606</document_key>
+        <order>100</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-12-20 00:12:58</sys_created_on>
+        <sys_id>9ce352552f200110daf14f2e2c99b636</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-12-20 00:12:58</sys_updated_on>
+        <value>form_submitted_to_server</value>
+        <variable display_value="Assert Type">b27f92915f23030076861f9f2f731356</variable>
+    </sys_variable_value>
+</record_update>
